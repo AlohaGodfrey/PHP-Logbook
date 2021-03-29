@@ -13,8 +13,6 @@
         // setcookie($cookieName, $_POST["selqty"]);
     ?>
 
-   
-  
 
       <form action="confirmation.php"  method="post">
 	Select the colour for the <?php echo $_SESSION["selqty"] ?> 
